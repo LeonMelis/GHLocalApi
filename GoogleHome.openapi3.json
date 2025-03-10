@@ -867,8 +867,8 @@
         "tags": [
           "Device Settings"
         ],
-        "summary": "Reboot and Factory Reset",
-        "description": "This can simply reboot the device (`params: \"now\"`) or factory reset the device (`params: \"fdr\"`).",
+        "summary": "Reboot, Update or Factory Reset",
+        "description": "This can simply reboot the device (`params: \"now\"`), force an update (`params: \"ota foreground\"`) or factory reset the device (`params: \"fdr\"`).",
         "operationId": "RebootandFactoryReset",
         "parameters": [],
         "requestBody": {
